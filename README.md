@@ -71,7 +71,7 @@ DeviceProcessEvents
 | where DeviceName == "kevin-mde-test"
 | project Timestamp, DeviceName, AccountName, ActionType, FolderPath, SHA256, ProcessCommandLine
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b13707ae-8c2d-4081-a381-2b521d3a0d8f">
+<img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/c507ae2f-9eeb-48a8-b366-9f5a9ffa9f40">
 
 ---
 
