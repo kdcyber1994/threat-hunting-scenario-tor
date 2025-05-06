@@ -105,11 +105,11 @@ DeviceNetworkEvents
 
 ### 2. Process Execution - TOR Browser Installation
 
-- **Timestamp:** `2024-11-08T22:16:47.4484567Z`
-- **Event:** The user "employee" executed the file `tor-browser-windows-x86_64-portable-14.0.1.exe` in silent mode, initiating a background installation of the TOR Browser.
+- **Timestamp:** `2025-05-06T00:11:09.137328Z`
+- **Event:** The user "kevin-mde-test" executed the file `tor-browser-windows-x86_64-portable-14.5.1.exe` in silent mode, initiating a background installation of the TOR Browser.
 - **Action:** Process creation detected.
-- **Command:** `tor-browser-windows-x86_64-portable-14.0.1.exe /S`
-- **File Path:** `C:\Users\employee\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe`
+- **Command:** `tor-browser-windows-x86_64-portable-14.5.1.exe /S`
+- **File Path:** `C:\Users\MdeTest\Downloads\tor-browser-windows-x86_64-portable-14.5.1.exe`
 
 ### 3. Process Execution - TOR Browser Launch
 
